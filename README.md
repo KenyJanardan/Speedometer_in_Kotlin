@@ -5,5 +5,4 @@ Used rotation class of kotlin to show the movements of the dial in the speedomet
 Can be used further as an actual speedometer in a vehicle.<br/>
 </h3>
 
-<p align="left"> <img src="images/SPEED1.jpeg" alt="janardankeny" /> </p>
-<p align="left"> <img src="images/SPEED2.jpeg" alt="janardankeny" /> </p>
+<p align="left"> <img src="images/SPEED1.jpeg" alt="janardankeny" /> <img src="images/SPEED2.jpeg" alt="janardankeny" /></p>
